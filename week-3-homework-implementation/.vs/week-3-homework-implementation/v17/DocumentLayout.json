@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\week-3-homework-implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293B8C46-6BD6-459F-822D-14F4985852AE}|week-3-homework-implementation\\week-3-homework-implementation.vcxproj|C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\LinkedList.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B8C46-6BD6-459F-822D-14F4985852AE}|week-3-homework-implementation\\week-3-homework-implementation.vcxproj|C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\List.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B8C46-6BD6-459F-822D-14F4985852AE}|week-3-homework-implementation\\week-3-homework-implementation.vcxproj|C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Student.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B8C46-6BD6-459F-822D-14F4985852AE}|week-3-homework-implementation\\week-3-homework-implementation.vcxproj|C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Course.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B8C46-6BD6-459F-822D-14F4985852AE}|week-3-homework-implementation\\week-3-homework-implementation.vcxproj|C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B8C46-6BD6-459F-822D-14F4985852AE}|week-3-homework-implementation\\week-3-homework-implementation.vcxproj|C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293B8C46-6BD6-459F-822D-14F4985852AE}|week-3-homework-implementation\\week-3-homework-implementation.vcxproj|C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "driver.cpp",
+              "DocumentMoniker": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\driver.cpp",
+              "RelativeDocumentMoniker": "..\\driver.cpp",
+              "ToolTip": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\driver.cpp",
+              "RelativeToolTip": "..\\driver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T17:46:39.168Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Student.cpp",
+              "RelativeDocumentMoniker": "..\\Student.cpp",
+              "ToolTip": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Student.cpp",
+              "RelativeToolTip": "..\\Student.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T17:46:06.854Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cpp",
+              "DocumentMoniker": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Course.cpp",
+              "RelativeDocumentMoniker": "..\\Course.cpp",
+              "ToolTip": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Course.cpp",
+              "RelativeToolTip": "..\\Course.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T17:46:29.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.hpp",
+              "DocumentMoniker": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Course.hpp",
+              "RelativeDocumentMoniker": "..\\Course.hpp",
+              "ToolTip": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Course.hpp",
+              "RelativeToolTip": "..\\Course.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-09T17:45:08.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.hpp",
+              "DocumentMoniker": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Student.hpp",
+              "RelativeDocumentMoniker": "..\\Student.hpp",
+              "ToolTip": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\Student.hpp",
+              "RelativeToolTip": "..\\Student.hpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-09T17:45:49.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedList.hpp",
+              "DocumentMoniker": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\LinkedList.hpp",
+              "RelativeDocumentMoniker": "..\\LinkedList.hpp",
+              "ToolTip": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\LinkedList.hpp",
+              "RelativeToolTip": "..\\LinkedList.hpp",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-09T18:05:20.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.hpp",
+              "DocumentMoniker": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\List.hpp",
+              "RelativeDocumentMoniker": "..\\List.hpp",
+              "ToolTip": "C:\\Users\\theme\\source\\repos\\week-3-homework-Logmen1\\List.hpp",
+              "RelativeToolTip": "..\\List.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-09T18:05:26.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

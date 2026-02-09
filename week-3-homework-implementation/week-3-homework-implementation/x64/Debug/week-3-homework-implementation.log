@@ -1,0 +1,79 @@
+﻿  driver.cpp
+  Student.cpp
+C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(124,18): error C2065: 'student': undeclared identifier
+  (compiling source file '../../driver.cpp')
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(124,7): error C2923: 'LinkedList': 'student' is not a valid template type argument for parameter 'T'
+  (compiling source file '../../driver.cpp')
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(124,18):
+      see declaration of 'student'
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(124,7): error C2913: explicit specialization; 'LinkedList' is not a specialization of a class template
+  (compiling source file '../../driver.cpp')
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(124,18): error C2065: 'student': undeclared identifier
+  (compiling source file '../../Student.cpp')
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(124,7): error C2923: 'LinkedList': 'student' is not a valid template type argument for parameter 'T'
+  (compiling source file '../../Student.cpp')
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(124,18):
+      see declaration of 'student'
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(124,7): error C2913: explicit specialization; 'LinkedList' is not a specialization of a class template
+  (compiling source file '../../Student.cpp')
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(7,20): error C2512: 'LinkedList': no appropriate default constructor available
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(124,7):
+      see declaration of 'LinkedList'
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(13,10): error C2662: 'void LinkedList<T>::clear(void)': cannot convert 'this' pointer from 'LinkedList' to 'LinkedList<T> &'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(13,2):
+      Reason: cannot convert from 'LinkedList' to 'LinkedList<T>'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(13,2):
+      Conversion requires a second user-defined-conversion operator or constructor
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(60,10):
+      see declaration of 'LinkedList<T>::clear'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(13,10):
+      while trying to match the argument list '()'
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(35,10): error C2662: 'void LinkedList<T>::append(const T &)': cannot convert 'this' pointer from 'LinkedList' to 'LinkedList<T> &'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(35,2):
+      Reason: cannot convert from 'LinkedList' to 'LinkedList<T>'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(35,2):
+      Conversion requires a second user-defined-conversion operator or constructor
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(39,10):
+      see declaration of 'LinkedList<T>::append'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(35,10):
+      while trying to match the argument list '(course)'
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(48,30): error C2662: 'int LinkedList<T>::getLength(void) const': cannot convert 'this' pointer from 'const LinkedList' to 'const LinkedList<T> &'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(48,22):
+      Reason: cannot convert from 'const LinkedList' to 'const LinkedList<T>'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(48,22):
+      Conversion requires a second user-defined-conversion operator or constructor
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(91,9):
+      see declaration of 'LinkedList<T>::getLength'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(48,30):
+      while trying to match the argument list '()'
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(49,24): error C2662: 'T LinkedList<T>::getElement(int) const': cannot convert 'this' pointer from 'const LinkedList' to 'const LinkedList<T> &'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(49,16):
+      Reason: cannot convert from 'const LinkedList' to 'const LinkedList<T>'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(49,16):
+      Conversion requires a second user-defined-conversion operator or constructor
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(74,7):
+      see declaration of 'LinkedList<T>::getElement'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(49,24):
+      while trying to match the argument list '(int)'
+  
+C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(49,72): error C2662: 'T LinkedList<T>::getElement(int) const': cannot convert 'this' pointer from 'const LinkedList' to 'const LinkedList<T> &'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(49,64):
+      Reason: cannot convert from 'const LinkedList' to 'const LinkedList<T>'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(49,64):
+      Conversion requires a second user-defined-conversion operator or constructor
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\LinkedList.hpp(74,7):
+      see declaration of 'LinkedList<T>::getElement'
+      C:\Users\theme\source\repos\week-3-homework-Logmen1\Student.cpp(49,72):
+      while trying to match the argument list '(int)'
+  
+  Generating Code...
